@@ -1,5 +1,5 @@
 # Computational-Neuroscience
-# Computational Neuroscience
+
 
 This repository contains my computational neuroscience project completed as part of the **Neuromatch Academy** program.
 
