@@ -34,6 +34,10 @@ The project involved:
 
 The repository contains Jupyter notebooks documenting the analysis, visualizations, and results.
 
+## View the Notebook
+
+The notebook can be viewed with its code, visualizations, and outputs using [Jupyter nbviewer](https://nbviewer.org/github/fataei/Computational-Neuroscience/blob/main/Project_on_Kay_natural_images.ipynb).
+
 ### Background
 
 This project was completed as part of Neuromatch Academy's computational neuroscience training, providing hands-on experience in analyzing neural data and exploring connections between biological and artificial neural representations.
